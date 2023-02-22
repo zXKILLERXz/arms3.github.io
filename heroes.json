@@ -1,0 +1,41 @@
+{
+  "squadName" : "Comparativa motos 250",
+  "Pais" : "Colombia",
+  "Modelo" : "2018-2023",
+  "secretBase" : "Super tower",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "TRK 251",
+      "Cilindrada" : "250 cc" ,
+      "Fabricante" : "BENNELI",
+      "Carapteristicas" : [
+        "250 CC",
+        "Frenos ABS",
+        "Cupula dinamica"
+      ]
+    },
+    {
+      "name" : "Gixeer 250",
+      "Cilindrada" : "250 cc",
+      "Fabricante" : "SUZUKI",
+      "Carapteristicas" : [
+        "248 cc",
+        "Marca",
+        "Multiples diseños"
+      ]
+    },
+    {
+      "name" : "Versys 250",
+      "Cilindrada" : "250 cc",
+      "Fabricante" : "KAWASAKI",
+      "Carapteristicas" : [
+        "Marca",
+        "Diseño unico",
+        "Frenos ABS",
+        "Full inyection",
+        "Velocidad punta"
+      ]
+    }
+  ]
+}
