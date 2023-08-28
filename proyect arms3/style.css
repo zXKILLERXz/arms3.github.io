@@ -1,0 +1,61 @@
+html {
+  font-family: Vegur, 'PT Sans', Verdana, sans-serif;
+}
+
+body {
+  
+  background:url('https://www.xtrafondos.com/wallpapers/resized/motocross-3145.jpg?s=large');
+  background-size:cover;
+  font-family: 'Cabin Condensed', sans-serif;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  
+ 
+}
+
+h1, h2 {
+  color: #ffff;
+  font-family: 'verdana', cursive;
+}
+
+/* header styles */
+
+h1 {
+  color: #ffff;
+  font-size: 4rem;
+  text-align: center;
+}
+
+header p {
+  color: #ffff;
+  font-size: 1.3rem;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* section styles */
+
+section article {
+  color: #ffff;
+  width: 33%;
+  float: left;
+}
+
+section p {
+  color: #ffff;
+  margin: 5px 0;
+}
+
+section ul {
+  color: #ffff;
+  margin-top: 0;
+}
+
+h2 {
+  color: #ffff;
+  font-size: 2.5rem;
+  letter-spacing: -5px;
+  margin-bottom: 10px;
+}
